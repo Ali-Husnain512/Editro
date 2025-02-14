@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-toast {
+    font-size: 20px;
+    /* Adjust the font size as needed */
+}
